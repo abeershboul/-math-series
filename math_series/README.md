@@ -2,7 +2,7 @@
 
 ## Project: Math-Series
 
-#### Author: Abeer Alshboul
+### Author: Abeer Alshboul
 
 ### Links and Resources
 
