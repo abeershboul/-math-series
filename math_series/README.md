@@ -9,7 +9,7 @@
 No resources were needed for this task.
 Setup
 
-### How to initialize/run your application (where applicable)
+## How to initialize/run your application (where applicable)
 
 * python3 math_series/series.py
 
