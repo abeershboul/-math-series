@@ -4,7 +4,7 @@
 
 ### Author: Abeer Alshboul
 
-### Links and Resources
+## Links and Resources
 
 No resources were needed for this task.
 Setup
